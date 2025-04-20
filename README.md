@@ -11,4 +11,4 @@ So, I decided to create a food map that introduces **Halal-friendly Korean dishe
 3. Verified real-time data using KakaoMap and Naver Map.
 4. Saved those locations for easy navigation and sharing!
 
-https://docs.google.com/spreadsheets/d/1_UkUHRZHDNqiU9WwyhIj-04QXdnQ12RceHXBqCNCpII/edit?usp=sharing
+[Excel file link]([http://www.naver.com/](https://docs.google.com/spreadsheets/d/1_UkUHRZHDNqiU9WwyhIj-04QXdnQ12RceHXBqCNCpII/edit?usp=sharing))
