@@ -1,12 +1,12 @@
 # K-food-Halal
 
-Recently, I've met two Muslim friends in Seoul.
-But finding Korean foods do not containing pork was extremely hard (Koreans love pork)
+Recently, I met two Muslim friends in Seoul.  
+However, finding Korean food that doesn't contain pork was extremely difficult — Koreans really love pork!
 
-Therefore, I decided to build a food map to introduce Korean foods for Muslims.
+So, I decided to create a food map that introduces **Halal-friendly Korean dishes** for Muslim visitors and residents.
 
-Here's the step of this project:
-1. Extract data from Muslim-friendly_restaurants.pdf made by Korean tourism organization.
-2. Filter Korean foods
-3. Verify real-time data through kakaomap and navermap
-4. Save those locations on the maps for navigation!
+### Project Steps:
+1. Extracted data from `Muslim-friendly_restaurants.pdf` provided by the Korea Tourism Organization.
+2. Filtered for restaurants that serve Korean food.
+3. Verified real-time data using KakaoMap and Naver Map.
+4. Saved those locations for easy navigation and sharing!
